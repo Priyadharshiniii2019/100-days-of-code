@@ -12,8 +12,8 @@ My goal is to become more confident in programming, strengthen my problem-solvin
 ## 📅 Challenge
 
 **Duration:** 100 Days
-**Start Date:** September 13, 2026
-**End Date:** December 21, 2026
+**Start Date:** September 19, 2026
+**End Date:** December 27, 2026
 
 ## 🛠️ Focus Areas
 
